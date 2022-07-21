@@ -1,7 +1,7 @@
 Hello! This is a quick tutorial on how to use PhantomGrabberV2. 
 First, extract the ZIP file. 
 Then, open the .exe file named PhantomGrabberV2 
-(NOTE: If it doesn't open, it may be your Antivirus. Antivirus detect hacking tools as malware, giving you then a false alarm. To proceed, just disable your Antivirus). 
+(NOTE: If it doesn't open, it may be your Antivirus. Antivirus detects hacking tools as malware, giving you then a false alarm. To proceed, just disable your Antivirus). 
 When you open the app, you will see some options.
 Give a name to your stub and select a Icon if you want.
 Then, in the appropriate boxes, paste your Discord Webhook link, so that when you get a hit the info is sent to a server you would like to be sent to.
